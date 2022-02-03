@@ -69,3 +69,11 @@ td {
     padding: 5px;
     font-weight: bold;
 }
+
+.button-container {
+    padding: 30px;
+}
+
+.message-container {
+    padding-bottom: 30px;
+}
